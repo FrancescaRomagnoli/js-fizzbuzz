@@ -1,4 +1,4 @@
-console.log("JS OK");
+// console.log("JS OK");
 
 // # number pool
 for (let i = 1; i <= 100; i++) {
